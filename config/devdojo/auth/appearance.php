@@ -26,7 +26,7 @@ return [
     ],
     'alignment' => [
         'heading' => 'center',
-        'container' => 'left',
+        'container' => 'center',
     ],
     'favicon' => [
         'light' => '/auth/img/favicon.png',
